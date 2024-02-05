@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#0D031B</color>
+    <color name="bg_item_color">#56505F</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_gray">#4A4D73</color>
+    <color name="cream">#F8F6F5</color>
+    <color name="green">#34A853</color>
+    <color name="red_brown">#8D333B</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">SalesApplication</string>
+    <string name="gcm_defaultSenderId" translatable="false">830693548459</string>
+    <string name="google_api_key" translatable="false">AIzaSyC8R4awdkscBbLr3F32Lg_N48VcxSzCP00</string>
+    <string name="google_app_id" translatable="false">1:830693548459:android:88119920151b834cc9f2ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC8R4awdkscBbLr3F32Lg_N48VcxSzCP00</string>
+    <string name="google_storage_bucket" translatable="false">salesapplication-a0e79.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="project_id" translatable="false">salesapplication-a0e79</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="Base.Theme.SalesApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SalesApplication" parent="Base.Theme.SalesApplication"/>
+</resources>

@@ -1,0 +1,3 @@
+com.example.salesapplication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
