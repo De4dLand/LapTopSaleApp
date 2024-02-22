@@ -62,7 +62,6 @@ id edt_phone
 id home_container
 id home_layout
 id home_toolbar
-id imageView3
 id menu_logout
 id menu_my_cart
 id my_cart_toolbar

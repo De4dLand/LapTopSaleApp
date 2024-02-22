@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -24,9 +23,6 @@ public final class ActivityPaymentBinding implements ViewBinding {
 
   @NonNull
   public final View divider5;
-
-  @NonNull
-  public final ImageView imageView3;
 
   @NonNull
   public final Button payBtn;
@@ -59,13 +55,12 @@ public final class ActivityPaymentBinding implements ViewBinding {
   public final TextView totalAmt;
 
   private ActivityPaymentBinding(@NonNull ConstraintLayout rootView, @NonNull View divider5,
-      @NonNull ImageView imageView3, @NonNull Button payBtn, @NonNull Toolbar paymentToolbar,
-      @NonNull TextView subTotal, @NonNull TextView textView12, @NonNull TextView textView14,
-      @NonNull TextView textView15, @NonNull TextView textView17, @NonNull TextView textView18,
-      @NonNull TextView textView19, @NonNull TextView totalAmt) {
+      @NonNull Button payBtn, @NonNull Toolbar paymentToolbar, @NonNull TextView subTotal,
+      @NonNull TextView textView12, @NonNull TextView textView14, @NonNull TextView textView15,
+      @NonNull TextView textView17, @NonNull TextView textView18, @NonNull TextView textView19,
+      @NonNull TextView totalAmt) {
     this.rootView = rootView;
     this.divider5 = divider5;
-    this.imageView3 = imageView3;
     this.payBtn = payBtn;
     this.paymentToolbar = paymentToolbar;
     this.subTotal = subTotal;
@@ -108,12 +103,6 @@ public final class ActivityPaymentBinding implements ViewBinding {
       id = R.id.divider5;
       View divider5 = ViewBindings.findChildViewById(rootView, id);
       if (divider5 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageView3;
-      ImageView imageView3 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView3 == null) {
         break missingId;
       }
 
@@ -177,7 +166,7 @@ public final class ActivityPaymentBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityPaymentBinding((ConstraintLayout) rootView, divider5, imageView3, payBtn,
+      return new ActivityPaymentBinding((ConstraintLayout) rootView, divider5, payBtn,
           paymentToolbar, subTotal, textView12, textView14, textView15, textView17, textView18,
           textView19, totalAmt);
     }

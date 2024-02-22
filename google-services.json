@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225266131550",
+    "project_id": "laptopsaleapp",
+    "storage_bucket": "laptopsaleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225266131550:android:88df0c86277e8bb7990acf",
+        "android_client_info": {
+          "package_name": "com.example.salesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgdDegmc-SgJBCac6MgmVb0f6iyro1S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

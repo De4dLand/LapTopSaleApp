@@ -1,182 +1,190 @@
 [
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_payment.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_payment.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_ic_baseline_menu24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\ic_baseline_menu24.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_address_item.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/address_item.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_logout.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/logout.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\logout.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/xml_backup_rules.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_detailed.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_detailed.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/menu_main_menu.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/menu/main_menu.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\apple.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_download.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\download.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_acer.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/acer.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_address_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\address_item.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_login_screen.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_plus.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/plus.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_category_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\category_list.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_popular_products.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/popular_products.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_credit_card_image.jpeg.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/credit_card_image.jpeg"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_nike_logo.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/nike_logo.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\edit_text_bg.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_msi.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/msi.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_adidas_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\adidas_logo.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_puma_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\puma_logo.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_minus.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/minus.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_download.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/download.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_login_screen.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_login_screen.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_registration_screen.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_registration_screen.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_cart.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_cart.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_registration_screen.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_registration_screen.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_my_cart_item.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/my_cart_item.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_msi.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\msi.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_address.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_address.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_my_cart_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\my_cart_item.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_shopping.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/shopping.png"
+        "merged": "com.example.salesapplication.app-merged_res-43:/layout_activity_payment.xml.flat",
+        "source": "com.example.salesapplication.app-main-45:/layout/activity_payment.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_edit_text_bg.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/edit_text_bg.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\plus.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_fragment_home.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_new_products.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\new_products.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_payment.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_category_list.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/category_list.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_acer.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\acer.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_puma_logo.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/puma_logo.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_add_address.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_add_address.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_popular_products.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\popular_products.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_activity_detailed.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_detailed.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_shopping.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\shopping.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_apple.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/apple.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\menu\\main_menu.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/layout_new_products.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/layout/new_products.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_nike_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\nike_logo.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.salesapplication.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_add_address.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_add_address.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_address.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_address.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.salesapplication.app-merged_res-43:/layout_fragment_home.xml.flat",
+        "source": "com.example.salesapplication.app-main-45:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_adidas_logo.png.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/adidas_logo.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_minus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\minus.png"
     },
     {
-        "merged": "com.example.salesapplication.app-merged_res-40:/drawable_ic_baseline_menu24.xml.flat",
-        "source": "com.example.salesapplication.app-main-42:/drawable/ic_baseline_menu24.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\drawable_credit_card_image.jpeg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\drawable\\credit_card_image.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     }
 ]

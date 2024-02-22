@@ -1,58 +1,66 @@
 [
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/my_cart_item.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/my_cart_item.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_login_screen.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_login_screen.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\category_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\category_list.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/new_products.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/new_products.xml"
+        "merged": "com.example.salesapplication.app-mergeDebugResources-42:/layout/activity_payment.xml",
+        "source": "com.example.salesapplication.app-main-45:/layout/activity_payment.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_cart.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_cart.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\popular_products.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\popular_products.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/fragment_home.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/fragment_home.xml"
+        "merged": "com.example.salesapplication.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "com.example.salesapplication.app-main-45:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_payment.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_payment.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_registration_screen.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_registration_screen.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_detailed.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_detailed.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_address.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_address.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/category_list.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/category_list.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\address_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\address_item.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/address_item.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/address_item.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_detailed.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_detailed.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_add_address.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_add_address.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_add_address.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_add_address.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_main.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\my_cart_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\my_cart_item.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/popular_products.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/popular_products.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_login_screen.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_login_screen.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_address.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_address.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_cart.xml"
     },
     {
-        "merged": "com.example.salesapplication.app-mergeDebugResources-39:/layout/activity_registration_screen.xml",
-        "source": "com.example.salesapplication.app-main-42:/layout/activity_registration_screen.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-mergeDebugResources-42:\\layout\\new_products.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.example.salesapplication.app-main-45:\\layout\\new_products.xml"
     }
 ]

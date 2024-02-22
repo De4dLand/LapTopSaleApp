@@ -1,43 +1,46 @@
-com.example.salesapplication.app-transition-1.2.0-0 C:\Users\Admin\.gradle\caches\transforms-3\0a26bc31dcd30562d3b1a103e47428df\transformed\transition-1.2.0\res
-com.example.salesapplication.app-appcompat-resources-1.6.1-1 C:\Users\Admin\.gradle\caches\transforms-3\11848f052e4b4098d07fbfe55134a0e5\transformed\appcompat-resources-1.6.1\res
-com.example.salesapplication.app-play-services-base-18.0.1-2 C:\Users\Admin\.gradle\caches\transforms-3\1892810f315148a2a7c0cb414f8cc656\transformed\play-services-base-18.0.1\res
-com.example.salesapplication.app-glide-4.12.0-3 C:\Users\Admin\.gradle\caches\transforms-3\2255192c83b105f39a576988941e6541\transformed\glide-4.12.0\res
-com.example.salesapplication.app-savedstate-1.2.1-4 C:\Users\Admin\.gradle\caches\transforms-3\33fc24d2baf3f610124ed4c519e8f666\transformed\savedstate-1.2.1\res
-com.example.salesapplication.app-coordinatorlayout-1.1.0-5 C:\Users\Admin\.gradle\caches\transforms-3\353c8c534097129693abd87ebe5d9272\transformed\coordinatorlayout-1.1.0\res
-com.example.salesapplication.app-lifecycle-livedata-core-ktx-2.6.2-6 C:\Users\Admin\.gradle\caches\transforms-3\36c3f40fde847e908cdc7b7ba20d3cdf\transformed\lifecycle-livedata-core-ktx-2.6.2\res
-com.example.salesapplication.app-activity-1.8.0-7 C:\Users\Admin\.gradle\caches\transforms-3\38bc88b48eb2f789100aeaa97093d9e8\transformed\activity-1.8.0\res
-com.example.salesapplication.app-constraintlayout-2.1.4-8 C:\Users\Admin\.gradle\caches\transforms-3\41f0b8a6d82b0446b34ea096d54fcdd4\transformed\constraintlayout-2.1.4\res
-com.example.salesapplication.app-annotation-experimental-1.3.0-9 C:\Users\Admin\.gradle\caches\transforms-3\550236dec3534db983e15c991aeace78\transformed\annotation-experimental-1.3.0\res
-com.example.salesapplication.app-browser-1.4.0-10 C:\Users\Admin\.gradle\caches\transforms-3\58b375d4d0cd7b52352348f67052cd61\transformed\browser-1.4.0\res
-com.example.salesapplication.app-lifecycle-runtime-2.6.2-11 C:\Users\Admin\.gradle\caches\transforms-3\69228db12c3f51f8b04c4869044aec2a\transformed\lifecycle-runtime-2.6.2\res
-com.example.salesapplication.app-play-services-basement-18.1.0-12 C:\Users\Admin\.gradle\caches\transforms-3\7b12573e0e9f01cd2721779e766a9b5c\transformed\play-services-basement-18.1.0\res
-com.example.salesapplication.app-drawerlayout-1.1.1-13 C:\Users\Admin\.gradle\caches\transforms-3\81c9c44ab3cc3fadd72105a2bd3ac3a0\transformed\drawerlayout-1.1.1\res
-com.example.salesapplication.app-viewpager2-1.0.0-14 C:\Users\Admin\.gradle\caches\transforms-3\899c2f3b8e0ca8a4cb224d92d150476d\transformed\viewpager2-1.0.0\res
-com.example.salesapplication.app-firebase-common-20.4.2-15 C:\Users\Admin\.gradle\caches\transforms-3\920d8a26f73188757b8582f0e0532b2e\transformed\firebase-common-20.4.2\res
-com.example.salesapplication.app-core-ktx-1.9.0-16 C:\Users\Admin\.gradle\caches\transforms-3\a28bc324ed7b643ace68fe6376f8e055\transformed\core-ktx-1.9.0\res
-com.example.salesapplication.app-material-1.10.0-17 C:\Users\Admin\.gradle\caches\transforms-3\a8f2bdc1c8496bfe984d242578b519da\transformed\material-1.10.0\res
-com.example.salesapplication.app-startup-runtime-1.1.1-18 C:\Users\Admin\.gradle\caches\transforms-3\ad929b1fe4509518603e9fd1fecabed0\transformed\startup-runtime-1.1.1\res
-com.example.salesapplication.app-core-runtime-2.2.0-19 C:\Users\Admin\.gradle\caches\transforms-3\af3c559a3b5fb413c497813e6f09b783\transformed\core-runtime-2.2.0\res
-com.example.salesapplication.app-lifecycle-viewmodel-ktx-2.6.2-20 C:\Users\Admin\.gradle\caches\transforms-3\b5337a6e2e3c12acb7550596d34e4758\transformed\lifecycle-viewmodel-ktx-2.6.2\res
-com.example.salesapplication.app-emoji2-views-helper-1.2.0-21 C:\Users\Admin\.gradle\caches\transforms-3\c566ef028f700437152aae7262298682\transformed\emoji2-views-helper-1.2.0\res
-com.example.salesapplication.app-appcompat-1.6.1-22 C:\Users\Admin\.gradle\caches\transforms-3\c8cb0f2a8d72a59eacef808dc116fa19\transformed\appcompat-1.6.1\res
-com.example.salesapplication.app-cardview-1.0.0-23 C:\Users\Admin\.gradle\caches\transforms-3\cf8a99eaa4662befe05e90afbdb2f3ba\transformed\cardview-1.0.0\res
-com.example.salesapplication.app-lifecycle-process-2.6.2-24 C:\Users\Admin\.gradle\caches\transforms-3\cfa9dd8c6817da4bbef8a841a85c5f7e\transformed\lifecycle-process-2.6.2\res
-com.example.salesapplication.app-lifecycle-viewmodel-savedstate-2.6.2-25 C:\Users\Admin\.gradle\caches\transforms-3\d8a21454193722a466c2eb5673aa92c6\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
-com.example.salesapplication.app-lifecycle-viewmodel-2.6.2-26 C:\Users\Admin\.gradle\caches\transforms-3\da0a159304eb488debc3edbd6b3d2b74\transformed\lifecycle-viewmodel-2.6.2\res
-com.example.salesapplication.app-recyclerview-1.1.0-27 C:\Users\Admin\.gradle\caches\transforms-3\db1a41121d6b824ac7035634e36e4739\transformed\recyclerview-1.1.0\res
-com.example.salesapplication.app-profileinstaller-1.3.0-28 C:\Users\Admin\.gradle\caches\transforms-3\dc5155c5ed8b14414c198071e886044e\transformed\profileinstaller-1.3.0\res
-com.example.salesapplication.app-fragment-1.3.6-29 C:\Users\Admin\.gradle\caches\transforms-3\dd43ddd7422ffe07a2e7976c338c9ea7\transformed\fragment-1.3.6\res
-com.example.salesapplication.app-emoji2-1.2.0-30 C:\Users\Admin\.gradle\caches\transforms-3\e0dd024a38b868b8d0f85e700eb99ef0\transformed\emoji2-1.2.0\res
-com.example.salesapplication.app-lifecycle-livedata-ktx-2.6.2-31 C:\Users\Admin\.gradle\caches\transforms-3\e3cf246ec16afe931fecab8210894348\transformed\lifecycle-livedata-ktx-2.6.2\res
-com.example.salesapplication.app-lifecycle-livedata-core-2.6.2-32 C:\Users\Admin\.gradle\caches\transforms-3\e7645c3e8d8423a606bbb3b0da9635a0\transformed\lifecycle-livedata-core-2.6.2\res
-com.example.salesapplication.app-core-1.9.0-33 C:\Users\Admin\.gradle\caches\transforms-3\fa9836749877ebc04cd2d0e4df1ea177\transformed\core-1.9.0\res
-com.example.salesapplication.app-lifecycle-livedata-2.6.2-34 C:\Users\Admin\.gradle\caches\transforms-3\ffd67fa15e3e60d08234a1b5db212a0b\transformed\lifecycle-livedata-2.6.2\res
-com.example.salesapplication.app-pngs-35 F:\SalesApp\app\build\generated\res\pngs\debug
-com.example.salesapplication.app-res-36 F:\SalesApp\app\build\generated\res\processDebugGoogleServices
-com.example.salesapplication.app-resValues-37 F:\SalesApp\app\build\generated\res\resValues\debug
-com.example.salesapplication.app-packageDebugResources-38 F:\SalesApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.salesapplication.app-packageDebugResources-39 F:\SalesApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.salesapplication.app-merged_res-40 F:\SalesApp\app\build\intermediates\merged_res\debug
-com.example.salesapplication.app-debug-41 F:\SalesApp\app\src\debug\res
-com.example.salesapplication.app-main-42 F:\SalesApp\app\src\main\res
+com.example.salesapplication.app-lifecycle-process-2.6.2-0 C:\Users\Admin\.gradle\caches\transforms-3\012c84259f90d1e611d8d20bc9599023\transformed\lifecycle-process-2.6.2\res
+com.example.salesapplication.app-play-services-measurement-api-21.5.1-1 C:\Users\Admin\.gradle\caches\transforms-3\09418c856e7de4840a98ebebfa00e5dc\transformed\play-services-measurement-api-21.5.1\res
+com.example.salesapplication.app-core-runtime-2.2.0-2 C:\Users\Admin\.gradle\caches\transforms-3\098a0c4b74b7b176c14e1005b993219d\transformed\core-runtime-2.2.0\res
+com.example.salesapplication.app-lifecycle-livedata-core-2.6.2-3 C:\Users\Admin\.gradle\caches\transforms-3\0b86b0a20537276c2dcf6ab809797db4\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.salesapplication.app-lifecycle-livedata-core-ktx-2.6.2-4 C:\Users\Admin\.gradle\caches\transforms-3\13681f9b7f402e19fca16a1093e6ad16\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.salesapplication.app-lifecycle-viewmodel-ktx-2.6.2-5 C:\Users\Admin\.gradle\caches\transforms-3\16372f413d2924dcf57764f5af566372\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.salesapplication.app-appcompat-1.6.1-6 C:\Users\Admin\.gradle\caches\transforms-3\2bec41bb349f7d93fef2f1be90dd34a1\transformed\appcompat-1.6.1\res
+com.example.salesapplication.app-play-services-base-18.0.1-7 C:\Users\Admin\.gradle\caches\transforms-3\350eb8efbf5039ec8257279a5e654d37\transformed\play-services-base-18.0.1\res
+com.example.salesapplication.app-lifecycle-viewmodel-2.6.2-8 C:\Users\Admin\.gradle\caches\transforms-3\48eebbf6691d982926fe2f6c7cf93430\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.salesapplication.app-fragment-1.3.6-9 C:\Users\Admin\.gradle\caches\transforms-3\4a0a5e12b56064a192650dd7cc5d0c37\transformed\fragment-1.3.6\res
+com.example.salesapplication.app-savedstate-1.2.1-10 C:\Users\Admin\.gradle\caches\transforms-3\50601ebcc7257e4b4f192c6798b64c48\transformed\savedstate-1.2.1\res
+com.example.salesapplication.app-startup-runtime-1.1.1-11 C:\Users\Admin\.gradle\caches\transforms-3\509cb630bceccd9124ffd9b83fbab83b\transformed\startup-runtime-1.1.1\res
+com.example.salesapplication.app-lifecycle-runtime-2.6.2-12 C:\Users\Admin\.gradle\caches\transforms-3\593959b85d85952445f2977b0022928b\transformed\lifecycle-runtime-2.6.2\res
+com.example.salesapplication.app-emoji2-1.2.0-13 C:\Users\Admin\.gradle\caches\transforms-3\5c59655980a599ac49baa9544d40799b\transformed\emoji2-1.2.0\res
+com.example.salesapplication.app-emoji2-views-helper-1.2.0-14 C:\Users\Admin\.gradle\caches\transforms-3\62caef8e501078d812ccf982b90b8a18\transformed\emoji2-views-helper-1.2.0\res
+com.example.salesapplication.app-viewpager2-1.0.0-15 C:\Users\Admin\.gradle\caches\transforms-3\67e35f1086ec3ffe56965e1786f45d48\transformed\viewpager2-1.0.0\res
+com.example.salesapplication.app-annotation-experimental-1.3.0-16 C:\Users\Admin\.gradle\caches\transforms-3\6e4984ef119f269283ca8d0aa7e228cd\transformed\annotation-experimental-1.3.0\res
+com.example.salesapplication.app-transition-1.2.0-17 C:\Users\Admin\.gradle\caches\transforms-3\739353998c5ee2f8d4f81c6781912fd2\transformed\transition-1.2.0\res
+com.example.salesapplication.app-ads-adservices-java-1.0.0-beta05-18 C:\Users\Admin\.gradle\caches\transforms-3\76d585a57f4ea3c81bc89368dc1b6114\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.salesapplication.app-drawerlayout-1.1.1-19 C:\Users\Admin\.gradle\caches\transforms-3\7fa01f3a455ab5fe9f72b9962b4b88ca\transformed\drawerlayout-1.1.1\res
+com.example.salesapplication.app-firebase-common-20.4.2-20 C:\Users\Admin\.gradle\caches\transforms-3\903924b212a8fb324ad2233c54c15f2f\transformed\firebase-common-20.4.2\res
+com.example.salesapplication.app-browser-1.4.0-21 C:\Users\Admin\.gradle\caches\transforms-3\9b7b6a19d3a3b0a5b4a3da5726ee6a6f\transformed\browser-1.4.0\res
+com.example.salesapplication.app-lifecycle-livedata-2.6.2-22 C:\Users\Admin\.gradle\caches\transforms-3\a512c6c31a8d43e770a83a69106d274f\transformed\lifecycle-livedata-2.6.2\res
+com.example.salesapplication.app-core-1.9.0-23 C:\Users\Admin\.gradle\caches\transforms-3\a5ff29778ac6a7ec566a18a0ef67f0fe\transformed\core-1.9.0\res
+com.example.salesapplication.app-activity-1.8.0-24 C:\Users\Admin\.gradle\caches\transforms-3\aa4ac980e2b521cad2730630ee6951a3\transformed\activity-1.8.0\res
+com.example.salesapplication.app-cardview-1.0.0-25 C:\Users\Admin\.gradle\caches\transforms-3\b41308922aae3129b470e0028de33317\transformed\cardview-1.0.0\res
+com.example.salesapplication.app-profileinstaller-1.3.0-26 C:\Users\Admin\.gradle\caches\transforms-3\b531509595c1b0305579381f94ad87dd\transformed\profileinstaller-1.3.0\res
+com.example.salesapplication.app-constraintlayout-2.1.4-27 C:\Users\Admin\.gradle\caches\transforms-3\b6b2317690b24292032d64b6c9ec1964\transformed\constraintlayout-2.1.4\res
+com.example.salesapplication.app-play-services-basement-18.1.0-28 C:\Users\Admin\.gradle\caches\transforms-3\b9dc69405f675a33ff35fb1c9bb6bb8e\transformed\play-services-basement-18.1.0\res
+com.example.salesapplication.app-material-1.10.0-29 C:\Users\Admin\.gradle\caches\transforms-3\bef35bf468bdc3d60dc44272ebb6cffd\transformed\material-1.10.0\res
+com.example.salesapplication.app-glide-4.12.0-30 C:\Users\Admin\.gradle\caches\transforms-3\d0261b90b2ee7ef1969317cde4a38d15\transformed\glide-4.12.0\res
+com.example.salesapplication.app-appcompat-resources-1.6.1-31 C:\Users\Admin\.gradle\caches\transforms-3\eef24fc02f454265c35832fecd34496e\transformed\appcompat-resources-1.6.1\res
+com.example.salesapplication.app-ads-adservices-1.0.0-beta05-32 C:\Users\Admin\.gradle\caches\transforms-3\f392d9ade2bd636fc3efebab0c7862af\transformed\ads-adservices-1.0.0-beta05\res
+com.example.salesapplication.app-lifecycle-viewmodel-savedstate-2.6.2-33 C:\Users\Admin\.gradle\caches\transforms-3\f68e0f1e0701a0333dbfa7cd5b0a82f4\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.salesapplication.app-core-ktx-1.9.0-34 C:\Users\Admin\.gradle\caches\transforms-3\f8852baf6d9613b23e8039c5e018fd6a\transformed\core-ktx-1.9.0\res
+com.example.salesapplication.app-recyclerview-1.1.0-35 C:\Users\Admin\.gradle\caches\transforms-3\f9d23760fb03a0ed29cab7028b19d718\transformed\recyclerview-1.1.0\res
+com.example.salesapplication.app-coordinatorlayout-1.1.0-36 C:\Users\Admin\.gradle\caches\transforms-3\f9d298c6692be563c75e8fb18b0428c1\transformed\coordinatorlayout-1.1.0\res
+com.example.salesapplication.app-lifecycle-livedata-ktx-2.6.2-37 C:\Users\Admin\.gradle\caches\transforms-3\ff032baae0ac04147a1b3b5b4c1e5eea\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.example.salesapplication.app-pngs-38 F:\New folder (2)\LapTopSaleApp\app\build\generated\res\pngs\debug
+com.example.salesapplication.app-res-39 F:\New folder (2)\LapTopSaleApp\app\build\generated\res\processDebugGoogleServices
+com.example.salesapplication.app-resValues-40 F:\New folder (2)\LapTopSaleApp\app\build\generated\res\resValues\debug
+com.example.salesapplication.app-packageDebugResources-41 F:\New folder (2)\LapTopSaleApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.salesapplication.app-packageDebugResources-42 F:\New folder (2)\LapTopSaleApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.salesapplication.app-merged_res-43 F:\New folder (2)\LapTopSaleApp\app\build\intermediates\merged_res\debug
+com.example.salesapplication.app-debug-44 F:\New folder (2)\LapTopSaleApp\app\src\debug\res
+com.example.salesapplication.app-main-45 F:\New folder (2)\LapTopSaleApp\app\src\main\res

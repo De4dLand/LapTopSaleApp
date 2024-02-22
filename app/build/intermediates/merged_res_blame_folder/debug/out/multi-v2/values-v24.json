@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.salesapplication.app-mergeDebugResources-38:/values-v24/values-v24.xml",
+            "outputFile": "com.example.salesapplication.app-mergeDebugResources-41:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\a8f2bdc1c8496bfe984d242578b519da\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\bef35bf468bdc3d60dc44272ebb6cffd\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\c8cb0f2a8d72a59eacef808dc116fa19\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\2bec41bb349f7d93fef2f1be90dd34a1\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
